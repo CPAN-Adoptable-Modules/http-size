@@ -70,3 +70,5 @@ t/\d
 \bMANIFEST\s\d
 \bChanges\s\d
 
+\b.github\b
+
