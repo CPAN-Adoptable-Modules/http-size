@@ -67,3 +67,6 @@ HTTP-.*
 MANIFEST\.
 iterate-new.t
 t/\d
+\bMANIFEST\s\d
+\bChanges\s\d
+
