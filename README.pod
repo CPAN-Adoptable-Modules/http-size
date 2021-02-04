@@ -2,21 +2,10 @@
 
 =encoding utf8
 
-=for HTML <a href="https://www.github.com/briandfoy/http-size/actions?query=workflow%3Amacos"><img src="../../workflows/macos/badge.svg"></a>
-
-=for HTML <a href="https://www.github.com/briandfoy/http-size/actions?query=workflow%3Aubuntu"><img src="../../workflows/ubuntu/badge.svg"></a>
-
-=for HTML <a href="https://www.github.com/briandfoy/http-size/actions?query=workflow%3Awindows"><img src="../../workflows/windows/badge.svg"></a>
-
-=for HTML <a href='https://ci.appveyor.com/project/briandfoy/http-size'><img src='https://ci.appveyor.com/api/projects/status/j9na9n7jxrwdfteg' /></a>
-
-=for HTML <a href='https://coveralls.io/github/briandfoy/http-size?branch=master'><img src='https://coveralls.io/repos/github/briandfoy/http-size/badge.svg?branch=master' alt='Coverage Status' /></a>
-
-=for HTML <a href="https://github.com/briandfoy/http-size/blob/master/LICENSE"><img src="https://img.shields.io/cpan/l/HTTP-Size.svg" /></a>
-
-=for HTML <a href="https://metacpan.org/pod/HTTP::Size"><img src="https://img.shields.io/cpan/v/HTTP-Size.svg" /></A>
-
 =head1 The HTTP::Size module
+
+THIS IS AN ABANDONED MODULE. You can adopt it: L<https://pause.perl.org/pause/authenquery?ACTION=pause_04about#takeover>
+
 
 This is the I<README> for the L<HTTP::Size> Perl module. You're probably
 looking at this because you don't know where else to find what you're

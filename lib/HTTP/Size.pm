@@ -11,6 +11,9 @@ HTTP::Size - Get the byte size of an internet resource
 
 =head1 SYNOPSIS
 
+THIS IS AN ABANDONED MODULE. YOU CAN ADOPT IT.
+https://pause.perl.org/pause/authenquery?ACTION=pause_04about#takeover
+
 	use HTTP::Size
 
 	my $size = HTTP::Size::get_size( $url );
@@ -61,7 +64,7 @@ use LWP::UserAgent;
 use URI;
 use HTTP::Request;
 
-$VERSION = '1.151';
+$VERSION = '1.153';
 
 my $User_agent = LWP::UserAgent->new();
 
@@ -240,7 +243,7 @@ L<HTML::SimpleLinkExtor>
 
 This source is part of a GitHub project:
 
-	https://github.com/briandfoy/http-size
+	https://github.com/CPAN-Adoptable-Modules/http-size
 
 =head1 AUTHOR
 
